@@ -13,3 +13,6 @@ lol
 **here i'm writing from the jupiterbranch branch**
 
 here are some new changes from the github website
+
+
+now i'm writing whilst being on the phone with nathan
