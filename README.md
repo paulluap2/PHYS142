@@ -19,3 +19,4 @@ now i'm writing whilst being on the phone with nathan
 
 la je vais essayer de pull
 
+non la je pull en fait
